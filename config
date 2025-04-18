@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/marlakkarsmansi/Buffer-6.0-Video.git
+	tagOpt = --no-tags
+	fetch = +refs/*:refs/*
+	mirror = true
